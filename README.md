@@ -64,7 +64,7 @@ href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
 
 - ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Guanxii1/Re-Jeong-v4).***
 
--***`Paste your creds in the dreaded1 folder 📁 Create new app,link it to your GitHub and deploy then start the worker.`***
+-***`Paste your creds in the session folder 📁 Create new app,link it to your GitHub and deploy then start the worker.Or jus click deploy to heroku `***
 
 
 
