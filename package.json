@@ -1,6 +1,6 @@
 {
-  "name": "𝐙𝐲𝐧𝐓𝐳𝐲",
-  "version": "𝟏𝟐.𝟎.𝟎",
+  "name": "rejeong",
+  "version": "4.𝟎.𝟎",
   "description": "Simple Bot Whatsapp With Baileys",
   "main": "index.js",
   "type": "commonjs",
@@ -45,6 +45,7 @@
     "spinnies": "^0.5.1",
     "ssh2": "^1.14.0",
     "util": "^0.12.5",
-    "youtube-yts": "^2.0.0"
+    "youtube-yts": "^2.0.0",
+    "wa-sticker-formatter": "^4.3.2"
   }
 }
